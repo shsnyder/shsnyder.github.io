@@ -1,0 +1,4 @@
+baseURL = 'https://shsnyder.github.io/'
+languageCode = 'en-us'
+title = 'Some thoughts'
+theme = 'ananke'
